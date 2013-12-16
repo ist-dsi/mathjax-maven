@@ -5,7 +5,7 @@
 	<groupId>org.mathjax</groupId>
 	<name>mathjax</name>
 	<artifactId>mathjax</artifactId>
-	<version>2.2</version>
+	<version>2.3</version>
 	<build>
 		<plugins>
 			    <plugin>
